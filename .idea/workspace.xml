@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08fc4cd2-5c89-4853-8875-bfd3ffe6cf6b" name="Changes" comment=".idea files">
+      <change afterPath="$PROJECT_DIR$/src/app/api/register/POST.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/register/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PageHeader.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(auth)/UserAuthForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(auth)/UserAuthForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(auth)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(auth)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(protected)/[username]/(follow)/followers/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(protected)/[username]/(follow)/followers/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(protected)/[username]/(follow)/following/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(protected)/[username]/(follow)/following/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(protected)/discover/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(protected)/discover/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(protected)/feed/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(protected)/feed/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(protected)/messenger/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(protected)/messenger/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(protected)/posts/hashtag/[hashtag]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(protected)/posts/hashtag/[hashtag]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(setup)/setup/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(setup)/setup/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contexts/TimeSpentTracker.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/contexts/TimeSpentTracker.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vworld&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vworld/munia-fork-for-erdon.git&quot;,
+    &quot;accountId&quot;: &quot;99b67f4f-1776-43ad-b9e0-663cfa85c2b8&quot;
+  }
+}</component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.1" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2rhKjkdnlZ2MLf21LOp9RwH2NqR" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "H:/Programming/Programming/freelancing/munia-social",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "H:\\Programming\\Programming\\freelancing\\munia-social\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "H:\\Programming\\Programming\\freelancing\\munia-social\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Programming\Programming\freelancing\munia-social" />
+      <recent name="H:\Programming\Programming\freelancing\munia-social\src\components\Messenger" />
+      <recent name="H:\Programming\Programming\freelancing\munia-social\src\svg_components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Programming\Programming\freelancing\munia-social\src\app\api\messenger\message\events" />
+      <recent name="H:\Programming\Programming\freelancing\munia-social\src\app\api\messenger\message\read\[messageid]" />
+      <recent name="H:\Programming\Programming\freelancing\munia-social\src\app\api\messenger\message" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PS-241.19416.23" />
+        <option value="bundled-php-predefined-ba97393d7c68-48a1a656d44e-com.jetbrains.php.sharedIndexes-PS-241.19416.23" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08fc4cd2-5c89-4853-8875-bfd3ffe6cf6b" name="Changes" comment="" />
+      <created>1737006003687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737006003687</updated>
+      <workItem from="1737006004865" duration="22382000" />
+      <workItem from="1737089418271" duration="3563000" />
+      <workItem from="1737097270126" duration="16361000" />
+      <workItem from="1737145461405" duration="6792000" />
+      <workItem from="1737179977285" duration="39170000" />
+      <workItem from="1737269318723" duration="24807000" />
+      <workItem from="1737346218888" duration="15769000" />
+      <workItem from="1737376540333" duration="15832000" />
+      <workItem from="1737431305751" duration="18485000" />
+      <workItem from="1737467082487" duration="148000" />
+      <workItem from="1737467598313" duration="143000" />
+      <workItem from="1737467772309" duration="263000" />
+      <workItem from="1737468054153" duration="21709000" />
+      <workItem from="1737517314729" duration="2110000" />
+      <workItem from="1737521387543" duration="18253000" />
+      <workItem from="1737554675285" duration="124000" />
+      <workItem from="1737554814071" duration="6251000" />
+      <workItem from="1737574069074" duration="9490000" />
+    </task>
+    <task id="LOCAL-00001" summary="migrations and public logo">
+      <option name="closed" value="true" />
+      <created>1737551265103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737551265103</updated>
+    </task>
+    <task id="LOCAL-00002" summary="completed requested changes">
+      <option name="closed" value="true" />
+      <created>1737551498536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737551498536</updated>
+    </task>
+    <task id="LOCAL-00003" summary="DEPLOY.md">
+      <option name="closed" value="true" />
+      <created>1737553233952</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737553233952</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added project url to DEPLOY.md">
+      <option name="closed" value="true" />
+      <created>1737553546086</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737553546086</updated>
+    </task>
+    <task id="LOCAL-00005" summary="todo removed as already enforced on login">
+      <option name="closed" value="true" />
+      <created>1737553807169</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737553807169</updated>
+    </task>
+    <task id="LOCAL-00006" summary=" - added first user email&#10; - added notes on seeding db">
+      <option name="closed" value="true" />
+      <created>1737554338498</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737554338498</updated>
+    </task>
+    <task id="LOCAL-00007" summary=".idea files">
+      <option name="closed" value="true" />
+      <created>1737554413819</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737554413819</updated>
+    </task>
+    <task id="LOCAL-00008" summary=".idea files">
+      <option name="closed" value="true" />
+      <created>1737555039920</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737555039920</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="migrations and public logo" />
+    <MESSAGE value="completed requested changes" />
+    <MESSAGE value="DEPLOY.md" />
+    <MESSAGE value="added project url to DEPLOY.md" />
+    <MESSAGE value="todo removed as already enforced on login" />
+    <MESSAGE value=" - added first user email&#10; - added notes on seeding db" />
+    <MESSAGE value=".idea files" />
+    <option name="LAST_COMMIT_MESSAGE" value=".idea files" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

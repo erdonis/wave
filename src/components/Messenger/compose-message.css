@@ -1,0 +1,8 @@
+#new-message-body ~ button, #new-message-subject ~ button {
+    display: none !important;
+}
+
+#new-message-body:placeholder-shown:not(:focus) ~ label {
+    top: 15% !important;
+}
+
